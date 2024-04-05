@@ -1,15 +1,20 @@
 # Taller-Estructura1
 
-#Javier Alonso Catalán ; 21.445.807-1 ; javier.catalan01@alumnos.ucn.cl
+Javier Alonso Catalán ; 21.445.807-1 ; javier.catalan01@alumnos.ucn.cl
 
 # Objetos Creados en el main:
 
 Asistentes(6):
 asis1:{nombre: "javier", apellido: "catalan", edad: "20", numero: "968067580", correo: "javiercatalan@gmail.com", evento: "progcomp"}
+
 asis2:{nombre: "paula", apellido: "nunez", edad: "21", numero: "9245235625", correo: "paulanunez@gmail.com", evento: "kpop"}
+
 asis3:{nombre: "vicente", apellido: "ruiz", edad: "20", numero: "9811253559", correo: "vicenteruiz@gmail.com", evento: "stream"}
+
 asis4:{nombre: "heu", apellido: "remi", edad: "20", numero: "9694205467", correo: "heuremi@gmail.com", evento: "progcomp"}
+
 asis5:{nombre: "victoria", apellido: "quiroga", edad: "22", numero: "9223461287", correo: "vickyquiroga@gmail.com", evento: "progcomp"}
+
 asis6:{nombre: "fabi", apellido: "ven", edad: "29", numero: "9886702124", correo: "fabiven@gmail.com", evento: "stream"}
 
 
