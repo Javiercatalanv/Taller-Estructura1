@@ -1,0 +1,10 @@
+javier,catalan,20,968067580,javiercatalan@gmail.com,progcomp
+paula,nunez,21,9245235625,paulanunez@gmail.com,kpop
+vicente,ruiz,20,9811253559,vicenteruiz@gmail.com,stream
+heu,remi,20,9694205467,heuremi@gmail.com,progcomp
+victoria,quiroga,20,9223461287,vickyquiroga@gmail.com,progcomp
+fabi,ven,19,9886702124,fabiven@gmail.com,stream
+
+progcomp,11-04-2024,1,UCN,c++,Educativo,1
+kpop,05-04-2024,2,Plaza,danza,Social,1
+stream,06-04-2024,3,Casa,juegos,Social,1
