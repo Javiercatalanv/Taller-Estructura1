@@ -1,6 +1,6 @@
 # Taller-Estructura1
 
-Javier Alonso Catalán ; 21.445.807-1 ; javier.catalan01@alumnos.ucn.cl
+Javier Alonso Catalán Vargas ; 21.445.807-1 ; javier.catalan01@alumnos.ucn.cl
 
 # Objetos Creados en el main:
 
